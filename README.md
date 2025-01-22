@@ -13,6 +13,6 @@ This project demonstrates a basic file transfer system using Python. It consists
 ## Installation
 1. Clone or download the project repository:
    ```bash
-   git clone https://github.com/yourusername/ftp-project.git
+   git clone https://github.com/agniva1803/ftp-project.git
    cd ftp-project
 
