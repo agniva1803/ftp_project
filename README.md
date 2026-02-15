@@ -1,4 +1,4 @@
-# FTP File Transfer Project
+## FTP File Transfer Project
 
 This project demonstrates a basic file transfer system using Python. It consists of a simple TCP server and an FTP client to transfer files over a network.
 
@@ -15,4 +15,5 @@ This project demonstrates a basic file transfer system using Python. It consists
    ```bash
    git clone https://github.com/agniva1803/ftp-project.git
    cd ftp-project
+
 
